@@ -1,1 +1,2 @@
 「Hello, GitHub!」このファイルを編集しましょう。」
+「これは feature-hello ブランチからの更新です。」
